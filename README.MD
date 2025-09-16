@@ -1,4 +1,4 @@
-# stringgy.py — binary-safe string search & in-place edit (Windows-friendly)
+# stringgy.py — binary-safe string search & in-place edit tool thing
 
 Scan binaries for a substring (UTF-8, UTF-16LE, optional UTF-16BE), show the **full decoded context**, and interactively **patch** selected matches in place. No byte shifting. Backups are automatic and timestamped.
 
